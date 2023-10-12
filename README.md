@@ -2,7 +2,7 @@
 PHASE 1:
 https://github.com/Nahida58/project/files/12844078/smartwaterfountain-phase1.pdf
 
-PHASE 2: INNoVATION
+PHASE 2: INNOVATION
 Components:
 
 Microcontroller:
